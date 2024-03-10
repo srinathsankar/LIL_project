@@ -55,7 +55,7 @@ def preprocess(image):
     angle = determine_skew(img)
     img = sit.rotate(img, angle, resize=True, cval = 1)
     img = img_as_ubyte(img)
-    cv2.imshow('hi',img)
+    cv2.imshow('CLOSE ME',img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
     return img
