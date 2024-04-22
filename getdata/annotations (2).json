@@ -1,0 +1,1 @@
+{"classes":["GREET","FOOD"],"annotations":[["hi yo bye egg\r",{"entities":[[0,2,"GREET"],[3,5,"GREET"],[6,9,"GREET"],[10,13,"FOOD"]]}],["sup pie",{"entities":[[0,3,"GREET"],[4,7,"FOOD"]]}]]}
