@@ -1,0 +1,1769 @@
+{
+    "classes": [
+        [
+            "CELIAC",
+            "DIABETES",
+            "LACTOSE"
+        ]
+    ],
+    "annotations": [
+        [
+            "1 cup white sugar\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        17,
+                        "DIABETES"
+                    ],
+                    [
+                        12,
+                        17,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\u00bd cup unsalted butter\r\n",
+            {
+                "entities": [
+                    [
+                        15,
+                        21,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 \u00bd cups all-purpose flour\r\n",
+            {
+                "entities": [
+                    [
+                        21,
+                        26,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\u00bd cup milk\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        10,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Grease and flour a 9-inch square cake pan.\r\n",
+            {
+                "entities": [
+                    [
+                        11,
+                        16,
+                        "CELIAC"
+                    ],
+                    [
+                        33,
+                        37,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cream sugar and butter together in a mixing bowl\r\n",
+            {
+                "entities": [
+                    [
+                        16,
+                        22,
+                        "LACTOSE"
+                    ],
+                    [
+                        6,
+                        11,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Combine flour and baking powder in a separate bowl\r\n",
+            {
+                "entities": [
+                    [
+                        8,
+                        13,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add milk and stir until smooth.\r\n",
+            {
+                "entities": [
+                    [
+                        4,
+                        8,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pour batter into the prepared cake pan.\r\n",
+            {
+                "entities": [
+                    [
+                        30,
+                        34,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Classic cake recipes\r\n",
+            {
+                "entities": [
+                    [
+                        8,
+                        12,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "lemon, blackberry, strawberry, chocolate, coffee, orange, carrot, icing sugar, butter, milk, sugar, cream, rose, pistachio, elderflower, jam, cherry, custard, almond, caramel, walnut, poppyseed, banana, raspberry, coconut, ginger\r\n",
+            {
+                "entities": [
+                    [
+                        87,
+                        91,
+                        "LACTOSE"
+                    ],
+                    [
+                        79,
+                        85,
+                        "LACTOSE"
+                    ],
+                    [
+                        72,
+                        77,
+                        "DIABETES"
+                    ],
+                    [
+                        93,
+                        98,
+                        "DIABETES"
+                    ],
+                    [
+                        31,
+                        40,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "2 cups plain / all purpose flour ((cake flour OK too, Note 1))\r\n",
+            {
+                "entities": [
+                    [
+                        27,
+                        32,
+                        "CELIAC"
+                    ],
+                    [
+                        40,
+                        45,
+                        "CELIAC"
+                    ],
+                    [
+                        35,
+                        39,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 1/2 cups caster / superfine sugar ((granulated/regular ok too, Note 2))\r\n",
+            {
+                "entities": [
+                    [
+                        30,
+                        35,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "115g / 1/2 cup unsalted butter (, cut into 1.5cm / 1/2\u201d cubes (or so))\r\n",
+            {
+                "entities": [
+                    [
+                        24,
+                        30,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 cup milk (, full fat (Note 5))\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        10,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "225g / 2 sticks unsalted butter (, softened)\r\n",
+            {
+                "entities": [
+                    [
+                        25,
+                        31,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "500g / 1 lb soft icing sugar / powdered sugar (, SIFTED)\r\n",
+            {
+                "entities": [
+                    [
+                        23,
+                        28,
+                        "DIABETES"
+                    ],
+                    [
+                        40,
+                        45,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "2 - 4 tbsp milk (, to adjust thickeness)\r\n",
+            {
+                "entities": [
+                    [
+                        11,
+                        15,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Grease 2 x 20cm / 8\u201d cake pans with butter, then line with parchment / baking paper\r\n",
+            {
+                "entities": [
+                    [
+                        36,
+                        42,
+                        "LACTOSE"
+                    ],
+                    [
+                        21,
+                        25,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "(Note 9 more pan sizes) Best to use cake pan without loose base, if you can.\r\n",
+            {
+                "entities": [
+                    [
+                        36,
+                        40,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Whisk flour, baking powder and salt in a large bowl\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        11,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Slowly add sugar: With the beater still going, pour the sugar in over 45 seconds.\r\n",
+            {
+                "entities": [
+                    [
+                        11,
+                        16,
+                        "DIABETES"
+                    ],
+                    [
+                        56,
+                        61,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Finish cake batter:\r\n",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Heat Milk-Butter (Note 5): While egg is beating, place butter and milk in a heatproof jug and microwave 2 minutes on high to melt butter (or use stove).\r\n",
+            {
+                "entities": [
+                    [
+                        5,
+                        9,
+                        "LACTOSE"
+                    ],
+                    [
+                        66,
+                        70,
+                        "LACTOSE"
+                    ],
+                    [
+                        10,
+                        16,
+                        "LACTOSE"
+                    ],
+                    [
+                        55,
+                        61,
+                        "LACTOSE"
+                    ],
+                    [
+                        130,
+                        136,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Gently add flour: When the egg is whipped, scatter 1/3 flour across surface, then beat on Speed 1 for 5 seconds\r\n",
+            {
+                "entities": [
+                    [
+                        11,
+                        16,
+                        "CELIAC"
+                    ],
+                    [
+                        55,
+                        60,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add half remaining flour, then mix on Speed 1 for 5 sec\r\n",
+            {
+                "entities": [
+                    [
+                        19,
+                        24,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add remaining flour, then mix on Speed 1 for 5 - 10 sec until the flour is just mixed in\r\n",
+            {
+                "entities": [
+                    [
+                        14,
+                        19,
+                        "CELIAC"
+                    ],
+                    [
+                        66,
+                        71,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Once you can\u2019t see flour, stop straight away.\r\n",
+            {
+                "entities": [
+                    [
+                        19,
+                        24,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Combine milk, vanilla & oil - Pour hot milk, vanilla and oil into the now empty flour bowl.\r\n",
+            {
+                "entities": [
+                    [
+                        80,
+                        85,
+                        "CELIAC"
+                    ],
+                    [
+                        8,
+                        12,
+                        "LACTOSE"
+                    ],
+                    [
+                        39,
+                        43,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Slowly add milk: Turn beater back on Speed 1 then pour the Milk mixture into the Egg Batter over 15 seconds, then turn beater off.\r\n",
+            {
+                "entities": [
+                    [
+                        11,
+                        15,
+                        "LACTOSE"
+                    ],
+                    [
+                        59,
+                        63,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Knock out bubbles: Bang each cake pan on the counter 3 times to knock out big bubbles (Note 10 for why)\r\n",
+            {
+                "entities": [
+                    [
+                        29,
+                        33,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cool in cake pans for 15 minutes, then gently turn out onto cooling racks\r\n",
+            {
+                "entities": [
+                    [
+                        8,
+                        12,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If using as layer cakes, cool upside down - slight dome will flatten perfectly\r\n",
+            {
+                "entities": [
+                    [
+                        18,
+                        22,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Level cake = neat layers.\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        10,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Frost: Once cake layers are fully cool, top with frosting of choice, or cream and fresh berries or jam\r\n",
+            {
+                "entities": [
+                    [
+                        12,
+                        16,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Beat butter with paddle attachment in stand mixer for 3 minutes on high until it changes from yellow to almost white, and it becomes fluffy and creamy.\r\n",
+            {
+                "entities": [
+                    [
+                        5,
+                        11,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add icing sugar / powdered sugar gradually in 3 lots, beating slowly (to avoid a powder storm) then once mostly incorporated, beat on high for a full 3 minutes until fluffy.\r\n",
+            {
+                "entities": [
+                    [
+                        10,
+                        15,
+                        "DIABETES"
+                    ],
+                    [
+                        27,
+                        32,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add vanilla and milk, then beat for a further 30 seconds\r\n",
+            {
+                "entities": [
+                    [
+                        16,
+                        20,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Use milk only if needed to make it lovely and soft but still holds it's form (eg for piping)\r\n",
+            {
+                "entities": [
+                    [
+                        4,
+                        8,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Easy cake recipes\r\n",
+            {
+                "entities": [
+                    [
+                        5,
+                        9,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "butter, flour, sugar, eggs, milk, chocolate, carrot, raspberry, lemon, orange, jam, ginger, banana, vanilla, blueberry, coffee, rhubarb, fig, caramel, coconut, courgette, nuts\r\n",
+            {
+                "entities": [
+                    [
+                        8,
+                        13,
+                        "CELIAC"
+                    ],
+                    [
+                        28,
+                        32,
+                        "LACTOSE"
+                    ],
+                    [
+                        0,
+                        6,
+                        "LACTOSE"
+                    ],
+                    [
+                        15,
+                        20,
+                        "DIABETES"
+                    ],
+                    [
+                        34,
+                        43,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "3 cup all purpose flour\r\n",
+            {
+                "entities": [
+                    [
+                        18,
+                        23,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 1/2 cup powdered sugar\r\n",
+            {
+                "entities": [
+                    [
+                        19,
+                        24,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 cup milk\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        10,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Making a homemade sponge cake was never so easy\r\n",
+            {
+                "entities": [
+                    [
+                        25,
+                        29,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Begin by mixing sugar and olive oil together\r\n",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Sift together the all-purpose flour and baking soda\r\n",
+            {
+                "entities": [
+                    [
+                        30,
+                        35,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is done to evenly distribute the baking soda in flour\r\n",
+            {
+                "entities": [
+                    [
+                        51,
+                        56,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If required, add a little milk and mix till the batter is fluffy and soft\r\n",
+            {
+                "entities": [
+                    [
+                        26,
+                        30,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You may not add the entire milk if you feel the consistency of your cake is fine and it pours down like canned condensed milk\r\n",
+            {
+                "entities": [
+                    [
+                        27,
+                        31,
+                        "LACTOSE"
+                    ],
+                    [
+                        121,
+                        125,
+                        "LACTOSE"
+                    ],
+                    [
+                        68,
+                        72,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Vanilla essence is important to camouflage the smell of eggs and to make the cake taste delicious.\r\n",
+            {
+                "entities": [
+                    [
+                        77,
+                        81,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Now, take a baking tin to cook the cake and grease it well using some olive oil or cooking spray\r\n",
+            {
+                "entities": [
+                    [
+                        35,
+                        39,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Then, sprinkle some maida or all-purpose flour on it\r\n",
+            {
+                "entities": [
+                    [
+                        41,
+                        46,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It will prevent the cake from sticking to the base\r\n",
+            {
+                "entities": [
+                    [
+                        20,
+                        24,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can also line it with butter paper so that when the cake is baked, it can be taken out easily\r\n",
+            {
+                "entities": [
+                    [
+                        26,
+                        32,
+                        "LACTOSE"
+                    ],
+                    [
+                        56,
+                        60,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pour the prepared cake batter into the prepared tin and place it on a stand in a pressure cooker\r\n",
+            {
+                "entities": [
+                    [
+                        18,
+                        22,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Insert a knife or a metal skewer into the cake and if it comes out clean, then the cake is ready\r\n",
+            {
+                "entities": [
+                    [
+                        42,
+                        46,
+                        "LACTOSE"
+                    ],
+                    [
+                        83,
+                        87,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This cooling process is done so that the cake doesnt break down in between and comes out nice and clean\r\n",
+            {
+                "entities": [
+                    [
+                        41,
+                        45,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Once cooled enough, turn the cake tin upside down to remove the cake\r\n",
+            {
+                "entities": [
+                    [
+                        29,
+                        33,
+                        "LACTOSE"
+                    ],
+                    [
+                        64,
+                        68,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can also use the butter paper to lift off the cake, but you have to be a pro to make it happen quickly as it can also break the cake\r\n",
+            {
+                "entities": [
+                    [
+                        21,
+                        27,
+                        "LACTOSE"
+                    ],
+                    [
+                        50,
+                        54,
+                        "LACTOSE"
+                    ],
+                    [
+                        132,
+                        136,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "So, its better to turn the tin upside down for a better cake\r\n",
+            {
+                "entities": [
+                    [
+                        56,
+                        60,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Before decorating, cut an even slice of the cake from the top to prevent any doomed top\r\n",
+            {
+                "entities": [
+                    [
+                        44,
+                        48,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "But make sure you do this step when the cake is still warm and not completely cold\r\n",
+            {
+                "entities": [
+                    [
+                        40,
+                        44,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Now, take some whipping cream and line the cake with it evenly and scrape any extra cream\r\n",
+            {
+                "entities": [
+                    [
+                        43,
+                        47,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Once done, you can use cherries to decorate the cake or even tutti-frutti, it completely depends on your choice\r\n",
+            {
+                "entities": [
+                    [
+                        48,
+                        52,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The cake is ready now.\r\n",
+            {
+                "entities": [
+                    [
+                        4,
+                        8,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "To make whipping cream for a cake at home, all you need is a mixing bowl, some heavy whipping cream, powdered sugar, vanilla extract and an electric mixer\r\n",
+            {
+                "entities": [
+                    [
+                        29,
+                        33,
+                        "LACTOSE"
+                    ],
+                    [
+                        110,
+                        115,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Take the bowl and add heavy whipping cream in it along with powdered sugar and vanilla extract in it\r\n",
+            {
+                "entities": [
+                    [
+                        69,
+                        74,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Once done, you can transfer in a cone as well to decorate your cake.\r\n",
+            {
+                "entities": [
+                    [
+                        63,
+                        67,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "100 best cake recipes\r\n",
+            {
+                "entities": [
+                    [
+                        9,
+                        13,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "3 and 2/3 cups (433g) cake flour (spooned & leveled)\r\n",
+            {
+                "entities": [
+                    [
+                        27,
+                        32,
+                        "CELIAC"
+                    ],
+                    [
+                        22,
+                        26,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 and 1/2 cups (340g) unsalted butter, softened to room temperature\r\n",
+            {
+                "entities": [
+                    [
+                        31,
+                        37,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "2 cups (400g) granulated sugar\r\n",
+            {
+                "entities": [
+                    [
+                        25,
+                        30,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 and 1/2 cups (360ml) buttermilk, at room temperature*\r\n",
+            {
+                "entities": [
+                    [
+                        29,
+                        33,
+                        "LACTOSE"
+                    ],
+                    [
+                        23,
+                        29,
+                        "LACTOSE"
+                    ],
+                    [
+                        23,
+                        33,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 and 1/2 cups (340g) unsalted butter, softened to room temperature\r\n",
+            {
+                "entities": [
+                    [
+                        31,
+                        37,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "5 and 1/2 cups (650g) confectioners\u2019 sugar\r\n",
+            {
+                "entities": [
+                    [
+                        37,
+                        42,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1/3 cup (80ml) whole milk or heavy cream\r\n",
+            {
+                "entities": [
+                    [
+                        21,
+                        25,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Grease three 9-inch cake pans, line with parchment paper rounds, then grease the parchment paper\r\n",
+            {
+                "entities": [
+                    [
+                        20,
+                        24,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Parchment paper helps the cakes seamlessly release from the pans\r\n",
+            {
+                "entities": [
+                    [
+                        26,
+                        30,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "(If it\u2019s helpful, see this parchment paper rounds for cakes video & post.)\r\n",
+            {
+                "entities": [
+                    [
+                        54,
+                        58,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Make the cake:\r\n",
+            {
+                "entities": [
+                    [
+                        9,
+                        13,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Whisk the cake flour, salt, baking powder, and baking soda together\r\n",
+            {
+                "entities": [
+                    [
+                        15,
+                        20,
+                        "CELIAC"
+                    ],
+                    [
+                        10,
+                        14,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the butter and sugar together on high speed until smooth and creamy, about 3 minutes\r\n",
+            {
+                "entities": [
+                    [
+                        83,
+                        89,
+                        "LACTOSE"
+                    ],
+                    [
+                        94,
+                        99,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "(Mixture will look curdled as a result of the egg liquid and solid butter combining.) Scrape down the sides and up the bottom of the bowl as needed\r\n",
+            {
+                "entities": [
+                    [
+                        67,
+                        73,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "With the mixer still running on low, pour in the buttermilk and mix just until combined\r\n",
+            {
+                "entities": [
+                    [
+                        55,
+                        59,
+                        "LACTOSE"
+                    ],
+                    [
+                        49,
+                        55,
+                        "LACTOSE"
+                    ],
+                    [
+                        49,
+                        59,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pour batter evenly into cake pans\r\n",
+            {
+                "entities": [
+                    [
+                        24,
+                        28,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Bake for around 23-26 minutes or until the cakes are baked through\r\n",
+            {
+                "entities": [
+                    [
+                        43,
+                        47,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "To test for doneness, insert a toothpick into the center of the cake\r\n",
+            {
+                "entities": [
+                    [
+                        64,
+                        68,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Allow cakes to cool completely in the pans set on a wire cooling rack\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        10,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The cakes must be completely cool before frosting and assembling.\r\n",
+            {
+                "entities": [
+                    [
+                        4,
+                        8,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "In a large bowl using a handheld mixer or stand mixer fitted with a whisk or paddle attachment, beat the butter on medium speed until creamy, about 2 minutes\r\n",
+            {
+                "entities": [
+                    [
+                        105,
+                        111,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add confectioners\u2019 sugar, milk, vanilla extract, and salt with the mixer running on low\r\n",
+            {
+                "entities": [
+                    [
+                        26,
+                        30,
+                        "LACTOSE"
+                    ],
+                    [
+                        19,
+                        24,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add more confectioners\u2019 sugar if frosting is too thin, more milk if frosting is too thick, or an extra pinch of salt if frosting is too sweet.\r\n",
+            {
+                "entities": [
+                    [
+                        60,
+                        64,
+                        "LACTOSE"
+                    ],
+                    [
+                        24,
+                        29,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Using a large serrated knife, slice a thin layer off the tops of the cakes to create a flat surface\r\n",
+            {
+                "entities": [
+                    [
+                        69,
+                        73,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Discard (or crumble over ice cream!)\r\n",
+            {
+                "entities": [
+                    [
+                        25,
+                        34,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Place 1 cake layer on your cake stand, cake turntable, or serving plate\r\n",
+            {
+                "entities": [
+                    [
+                        8,
+                        12,
+                        "LACTOSE"
+                    ],
+                    [
+                        27,
+                        31,
+                        "LACTOSE"
+                    ],
+                    [
+                        39,
+                        43,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Top with 2nd cake layer and evenly cover the top with about 1 and 1/2 cups of frosting\r\n",
+            {
+                "entities": [
+                    [
+                        13,
+                        17,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Top with the third cake layer\r\n",
+            {
+                "entities": [
+                    [
+                        19,
+                        23,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Refrigerate cake for at least 1 hour before slicing\r\n",
+            {
+                "entities": [
+                    [
+                        12,
+                        16,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "This helps the cake hold its shape when cutting.\r\n",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cover leftover cake tightly and store in the refrigerator for up to 5 days.\r\n",
+            {
+                "entities": [
+                    [
+                        15,
+                        19,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "How to make chocolate cake\r\n",
+            {
+                "entities": [
+                    [
+                        22,
+                        26,
+                        "LACTOSE"
+                    ],
+                    [
+                        12,
+                        21,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\u00be cup + 2 tbsp flour ((112 grams) (all-purpose flour or wheat flour))\r\n",
+            {
+                "entities": [
+                    [
+                        15,
+                        20,
+                        "CELIAC"
+                    ],
+                    [
+                        47,
+                        52,
+                        "CELIAC"
+                    ],
+                    [
+                        62,
+                        67,
+                        "CELIAC"
+                    ],
+                    [
+                        56,
+                        61,
+                        "CELIAC"
+                    ],
+                    [
+                        56,
+                        67,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1 cup sugar ((organic))\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        11,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\u00bd cup milk\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        10,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "\u00bd cup butter (unsalted (soft but cold))\r\n",
+            {
+                "entities": [
+                    [
+                        6,
+                        12,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1\u00be cup powdered sugar (or confectioners sugar)\r\n",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "DIABETES"
+                    ],
+                    [
+                        40,
+                        45,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "1\u00bd tbsp milk (or whipping cream)\r\n",
+            {
+                "entities": [
+                    [
+                        8,
+                        12,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Grease and line 2 - 6 inch cake pans or 1 - 7 or 8 inch pan\r\n",
+            {
+                "entities": [
+                    [
+                        27,
+                        31,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Sieve together flour, cocoa, salt, baking powder and baking soda to a mixing bowl.\r\n",
+            {
+                "entities": [
+                    [
+                        15,
+                        20,
+                        "CELIAC"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Add sugar to the bowl\r\n",
+            {
+                "entities": [
+                    [
+                        4,
+                        9,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "How to make chocolate cake\r\n",
+            {
+                "entities": [
+                    [
+                        22,
+                        26,
+                        "LACTOSE"
+                    ],
+                    [
+                        12,
+                        21,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pour egg, oil, vanilla extract & milk\r\n",
+            {
+                "entities": [
+                    [
+                        33,
+                        37,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pour this to the cake pans\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        21,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cool the cake in the pans on a wire rack for 10 mins\r\n",
+            {
+                "entities": [
+                    [
+                        9,
+                        13,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Making chocolate buttercream frosting\r\n",
+            {
+                "entities": [
+                    [
+                        17,
+                        23,
+                        "LACTOSE"
+                    ],
+                    [
+                        7,
+                        16,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ensure butter is soft yet cold\r\n",
+            {
+                "entities": [
+                    [
+                        7,
+                        13,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Then add the rest of the ingredients except milk\r\n",
+            {
+                "entities": [
+                    [
+                        44,
+                        48,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If the frosting is too thick add milk and beat\r\n",
+            {
+                "entities": [
+                    [
+                        33,
+                        37,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If it becomes runny, just add more powdered sugar.\r\n",
+            {
+                "entities": [
+                    [
+                        44,
+                        49,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Refrigerate for a while and spread on the cake\r\n",
+            {
+                "entities": [
+                    [
+                        42,
+                        46,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Refrigerate and use up the chocolate cake with in a week.\r\n",
+            {
+                "entities": [
+                    [
+                        37,
+                        41,
+                        "LACTOSE"
+                    ],
+                    [
+                        27,
+                        36,
+                        "DIABETES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Top 50 cakes\r\n",
+            {
+                "entities": [
+                    [
+                        7,
+                        11,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Best cake recipes\r\n",
+            {
+                "entities": [
+                    [
+                        5,
+                        9,
+                        "LACTOSE"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
